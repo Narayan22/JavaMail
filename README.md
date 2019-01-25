@@ -1,0 +1,2 @@
+# JavaMail
+SpringBoot Java Mail
